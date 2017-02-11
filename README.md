@@ -1,3 +1,3 @@
-# IuriiPivtorak.gitgub.io
+# IuriiPivtorak.github.io
 
 This is my github portfolio
